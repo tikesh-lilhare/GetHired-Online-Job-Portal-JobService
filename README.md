@@ -72,7 +72,7 @@ The project uses the following dependencies:
 
 - job_db
 
-- Create Database
+## Create Database
 
 - CREATE DATABASE job_db;
 
@@ -95,7 +95,7 @@ The project uses the following dependencies:
 ## Create Job
 - POST /jobs
 
-- Request
+## Request
 
 - {
 -  "title":"Java Developer",
